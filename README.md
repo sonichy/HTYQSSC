@@ -4,6 +4,7 @@ Linux 平台基于 GTK+3 的带鼠标指针的截图程序，配合系统全局�
 深度系统截图保存路径为主目录。  
 ### 编译命令
 gcc -o "HTYQSSC" "HTYQSSC.c" `pkg-config --cflags --libs gtk+-3.0`  
+
 ![alt](preview.jpg)  
 ![alt](shortcutSet.jpg)
 ### 参考
